@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mhp-porsche-company",
+    "slug": "mhp-porsche-company",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
